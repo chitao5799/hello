@@ -45,9 +45,9 @@ github-flavored-markdown#1
 defunkt/github-flavored-markdown#1
   <br/> ================<br/>
   task list<br/>
-  - [x] this is a complete item
-- [ ] this is an incomplete item
-- [x] @mentions, #refs, [links](),
+ [x] this is a complete item
+ [ ] this is an incomplete item
+[x] @mentions, #refs, [links](),
 **formatting**, and <del>tags</del>
 supported
 - [x] list syntax required (any
@@ -55,10 +55,10 @@ unordered or ordered list
 supported)
   <br/> ================<br/>
   bảng: Bạn có thể tạo các bảng bằng cách tập hợp một danh sách các từ và chia chúng với các dấu gạch nối \- (cho hàng đầu tiên), sau đó tách từng cột bằng một ống \| :<br/>
-First Header    | Second Header
-----------------|-----------------
-Content cell 1  | Content cell 2
-Content column 1| Content column 2
+>First Header    | Second Header
+>----------------|-----------------
+>Content cell 1  | Content cell 2
+>Content column 1| Content column 2
    <br/> ================<br/> 
   GitHub supports emoji!
 :+1: :sparkles: :camel: :tada:
