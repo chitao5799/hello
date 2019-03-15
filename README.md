@@ -8,5 +8,5 @@ folder dùng đầu tiên của tôi
  * Item 2a
  * Item 2b
    * iemm 2a1
-![GitHub Logo](https://www.google.com.vn/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwi_rdG524PhAhUQQN4KHX4AAycQjRx6BAgBEAU&url=https%3A%2F%2Fpixabay.com%2Fvi%2Fphotos%2Fhogweed-hoa-m%25C3%25A0u-%25C4%2591en-v%25C3%25A0-tr%25E1%25BA%25AFng-1900192%2F&psig=AOvVaw0_lKxsYTwaGfKHtRMYBpIa&ust=1552724441652312)
+![GitHub Logo](https://cdn.pixabay.com/photo/2013/07/02/22/20/roses-142876_960_720.jpg)
 Format: ![Alt Text](url)
