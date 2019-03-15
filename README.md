@@ -41,8 +41,8 @@ function test() {
 ```
   <br/> ================<br/>TÀI LIỆU THAM KHẢO: Bất kỳ số nào đề cập đến một vấn đề hoặc yêu cầu kéo sẽ được tự động chuyển đổi thành một liên kết.<br/>
   #1
-github-flavored-markdown#1
-defunkt/github-flavored-markdown#1
+github-flavored-markdown
+defunkt/github-flavored-markdown
   <br/> ================<br/>
   task list<br/>
 - [x] this is a complete item
