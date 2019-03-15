@@ -26,6 +26,22 @@ __This will also be bold__
   http://github.com - automatic!
 [GitHub](http://github.com)
   <br/> ================<br/>
-   ================
-   ================
-   ================
+  As Grace Hopper said:
+> I’ve always been more interested
+> in the future than in the past.
+ <br/> ================<br/>
+  \*literal asterisks\*
+  <br/> ================<br/>
+  \ backslash
+` backtick
+* asterisk
+_ underscore
+{} curly braces
+[] square brackets
+() parentheses
+# hash mark
++ plus sign
+- minus sign (hyphen)
+. dot
+! exclamation mark
+  <br/> ================<br/><br/> ================<br/><br/> ================<br/><br/> ================<br/>
