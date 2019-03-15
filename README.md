@@ -9,4 +9,4 @@ folder dùng đầu tiên của tôi
  * Item 2b
    * iemm 2a1
 ![GitHub Logo](https://cdn.pixabay.com/photo/2013/07/02/22/20/roses-142876_960_720.jpg)
-Format: ![Alt Text](url)
+Format: ![Alt Text](https://cdn.pixabay.com/photo/2019/02/15/14/30/women-3998563_960_720.jpg)
