@@ -15,7 +15,7 @@ Format:  ![Alt Text](https://cdn.pixabay.com/photo/2019/02/15/14/30/women-399856
 _This will also be italic_
 **This text will be bold**
 __This will also be bold__
-*You **can** combine them*
+*You* **can** *combine them*
   <br/> ================<br/>
   1. Item 1
 2. Item 2
