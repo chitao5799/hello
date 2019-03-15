@@ -1,6 +1,6 @@
 
-folder dùng đầu tiên của tôi
-# This is an <h1> tag
+folder dùng đầu tiên của tôi -đang thử dùng markdown
+# This is an h1 <h1> tag
 ## This is an h2 tag
 ###### This is an h6 <h6> tag
 * Item 1
@@ -32,5 +32,35 @@ __This will also be bold__
  <br/> ================<br/>
   \*literal asterisks\*
   <br/> ================<br/>
- \?  \\ \+
-  <br/> ================<br/><br/> ================<br/><br/> ================<br/><br/> ================<br/>
+cách hiện các ký tự đặc biệt: \?  \\ \+
+  <br/> ================<br/>
+  ```javascript
+function test() {
+ console.log("look ma’, no spaces");
+}
+```
+  <br/> ================<br/>TÀI LIỆU THAM KHẢO: Bất kỳ số nào đề cập đến một vấn đề hoặc yêu cầu kéo sẽ được tự động chuyển đổi thành một liên kết.<br/>
+  #1
+github-flavored-markdown#1
+defunkt/github-flavored-markdown#1
+  <br/> ================<br/>
+  task list<br/>
+  - [x] this is a complete item
+- [ ] this is an incomplete item
+- [x] @mentions, #refs, [links](),
+**formatting**, and <del>tags</del>
+supported
+- [x] list syntax required (any
+unordered or ordered list
+supported)
+  <br/> ================<br/>
+  bảng: Bạn có thể tạo các bảng bằng cách tập hợp một danh sách các từ và chia chúng với các dấu gạch nối \- (cho hàng đầu tiên), sau đó tách từng cột bằng một ống \| :<br/>
+  First Header | Second Header
+------------ | -------------
+Content cell 1 | Content cell 2
+Content column 1 | Content column 2
+   <br/> ================<br/> 
+  GitHub supports emoji!
+:+1: :sparkles: :camel: :tada:
+:rocket: :metal: :octocat: 
+<br/> ================<br/> 
