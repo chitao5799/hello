@@ -63,4 +63,17 @@ supported)
   GitHub supports emoji!
 :+1: :sparkles: :camel: :tada:
 :rocket: :metal: :octocat: 
+  :bowtie: :ok_hand: :two_men_holding_hands: :black_square_button:
 <br/> ================<br/> 
+  Here's a sentence with a footnote. [^1]
+
+[^1]: This is the footnote.
+<br/> ================<br/>
+### My Great Heading {#custom-id}
+<br/> ================<br/>
+	term
+: definition
+<br/> ================<br/>
+~~The world is flat.~~
+<br/> ================<br/>
+  
